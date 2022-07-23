@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4rAgU1FnVKJ43w/vQHQj8WgcYzbnhrTaxss5Kbvokaiu1Oryu3o6u8KqHBOUwKJnvtAy0Sr8ZXbvxNa2cGlmQ==",
+  "dgSpecHash": "8kERhKFKqfzdiM6TNa1Ua50cULEV4rscVyrwGFHaAlQ9ByIIoafLoRGhLCbMxN8+BNB5MmxgCc72IGLixjr31A==",
   "success": true,
   "projectFilePath": "C:\\Users\\TENECE\\source\\repos\\ProductManagement\\ProductManagementAPI\\ProductManagementAPI.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\TENECE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\TENECE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\TENECE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\TENECE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\TENECE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\TENECE\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
