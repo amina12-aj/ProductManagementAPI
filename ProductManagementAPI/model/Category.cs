@@ -13,11 +13,12 @@ namespace ProductManagementAPI.model
         public string? price { get; set; }
         public string? productType { get; set; }
         [Required]
-        public DateTime? date { get; set; }
+        public DateTime? date { get; set; } = DateTime.Now;
         public string? role { get; set; }
 
-      
+
     }
+}
 
         //creating a list that holds all the items
        // List<Products> ProductList = new List<Products>
